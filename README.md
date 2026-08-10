@@ -18,8 +18,7 @@
 - [The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition) 
 - [Nexus Account](https://www.nexusmods.com)
 
-<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044964-874374357.png" />
-
+<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1772461875-114781363.png" />
 ## ⚔️ A COMPLETE OVERHAUL
 Touches every fiber of the game world. From the way you swing your sword to the way the world breathes around you, everything has been modernized:
 - Modern Combat: Fluid, tactical, and responsive animations.
@@ -27,8 +26,7 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 - Uncompromising Detail: High-quality assets that bring the 2011 classic into 2026.
 - And much more!.
 
-<img alt="Image" src="https://raw.githubusercontent.com/kimutkirby/Skyrim-KIRBYKINGS-NSFW-Edition/refs/heads/main/kirbykings%20NSFW%20Media%201.png" />
-
+<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1772459372-1972499830.png" />
 ## ⚔️ADDITIONAL QUEST
 - Legacy of the Dragonborn v6
 - Beyond Skyrim Bruma
@@ -42,9 +40,10 @@ Touches every fiber of the game world. From the way you swing your sword to the 
 - The Heart of Dibella
 - Baba Yaga & the Labyrinth
 - Paarthurnax
-- Amorous Adventures for Ostim
 - And many more.
+  
+<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1772461592-1608105877.png" />
 
-<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044961-761544868.png" />
+# Credits
+Deepest thanks to all the mod authors, this Modlist would not be possible without their incredible work.
 
-<img alt="Image" src="https://staticdelivery.nexusmods.com/mods/1704/images/172496/172496-1775044960-1839293380.png" />
