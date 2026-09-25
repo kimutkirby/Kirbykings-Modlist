@@ -9,7 +9,8 @@
 - Discord Server: https://discord.com/invite/4N4rWBFVKP
 - Load Order Library: https://loadorderlibrary.com/lists/kirbykings-modlist
 - YouTube: https://youtube.com/@Kimuts
-- Support: https://www.patreon.com/11775487/join
+- Support me on Patreon: https://www.patreon.com/11775487/join
+- Buy Me A Coffe: https://www.buymeacoffee.com/Kimutkirby
 
 ## 🌟Requirements
 - [NET 8.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer) 
