@@ -3,6 +3,7 @@
 <h3>The Next Generation of Skyrim Evolution Powered by Community Shaders. Experience Skyrim through A New Lens, by leveraging Advanced Complex Materials & PBR, Transforms every surface into a masterpiece of light and shadow.</h3>
 
 # 🌟INSTALLATION GUIDE: https://www.nexusmods.com/skyrimspecialedition/articles/11618
+# 🌟Downgrade: https://www.nexusmods.com/skyrimspecialedition/articles/12471
 
 ## 🌟LINKS
 - Nexus: https://www.nexusmods.com/profile/Kimutkirby
